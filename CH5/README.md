@@ -36,3 +36,6 @@ func divAndRemainder(numerator int, denominator int) (int, int, error) {
 ```
 
 >如果不需要讀取某個函式的回傳值就使用 `_`
+
+## 函式是值
+函式型態包含 `func`、參數的型態與回傳值，這組合是函式的特徵標記。
